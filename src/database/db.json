@@ -1,0 +1,80 @@
+{
+  "news": [
+    {
+      "title": "Medal counts",
+      "about": "Olympics",
+      "learn_more": {
+        "title": "See the latest medal rankings",
+        "href": "#"
+      },
+      "infos": [
+        "USA",
+        "China",
+        "Japan",
+        "Germany"
+      ]
+    },
+    {
+      "title": "Trending topics",
+      "about": "Discussions",
+      "infos": [
+        "CryptoTalk",
+        "Nasdaq",
+        "Tesla"
+      ],
+      "learn_more": {
+        "title": "Want more engagement? Contact us!"
+      }
+    }
+  ],
+  "medals-usa": {
+    "code": "USA",
+    "info": 113
+  },
+  "medals-china": {
+    "code": "China",
+    "info": 88
+  },
+  "medals-japan": {
+    "code": "Japan",
+    "info": 58
+  },
+  "medals-germany": {
+    "code": "Germany",
+    "info": 37
+  },
+  "discussions-cryptotalk": {
+    "code": "CryptoTalk",
+    "info": [
+      {
+        "text": "Is now the time to buy?",
+        "value": 82371
+      },
+      {
+        "text": "Blockchain for the win!",
+        "value": 30985
+      },
+      {
+        "text": "What a wild ride this year!",
+        "value": 15473
+      }
+    ]
+  },
+  "discussions-nasdaq": {
+    "code": "Nasdaq",
+    "info": [
+      {
+        "text": "Market insights for 2024",
+        "value": 123456
+      },
+      {
+        "text": "Is tech still booming?",
+        "value": 98765
+      },
+      {
+        "text": "What to expect next quarter",
+        "value": 54321
+      }
+    ]
+  }
+}
