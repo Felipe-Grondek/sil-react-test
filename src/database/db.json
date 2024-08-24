@@ -2,16 +2,16 @@
   "news": [
     {
       "title": "Medal counts",
-      "about": "Olympics",
+      "about": "Medals",
       "learn_more": {
         "title": "See the latest medal rankings",
         "href": "#"
       },
       "infos": [
         "USA",
-        "China",
-        "Japan",
-        "Germany"
+        "CHN",
+        "JAP",
+        "GER"
       ]
     },
     {
