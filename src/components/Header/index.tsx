@@ -1,9 +1,9 @@
-import { Flex, Center, Image } from '@chakra-ui/react';
+import { Flex, Center, Image } from '@chakra-ui/react'
 import Logo from '../../assets/logo.svg'
 
 export function Header() {
   return (
-    <Flex as='header' w='full' h={['20', '3xs']} bg={'brand.300'}>
+    <Flex as='header' w='full' h='3xs' bg={'brand.300'}>
       <Center
         w='full'
         maxW='1400px'

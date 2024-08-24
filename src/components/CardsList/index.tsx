@@ -1,5 +1,5 @@
-import { ReactNode } from 'react';
-import { Grid } from '@chakra-ui/react';
+import { ReactNode } from 'react'
+import { Grid } from '@chakra-ui/react'
 
 interface CardsListProps {
   children: ReactNode
