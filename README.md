@@ -18,6 +18,13 @@ OBS: Caso seja necessário, para rodar o banco local, basta trocar a baseURL par
 pnpm db
 ```
 
+## Testes
+
+Os testes unitários são executados automaticamente no repositório via [Github Actions](https://github.com/Felipe-Grondek/sil-react-test/actions) a cada push feito na branch.
+Caso deseje executar os testes localmente basta rodar o seguinte comando.
+```bash
+pnpm test
+```
 
 ## 📱 Preview do Projeto
 
