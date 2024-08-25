@@ -30,7 +30,7 @@ pnpm db
   <img src="./public/preview-mobile.png">
 </p>
 
-## 💇🏼 Sobre o projeto
+## 🧑‍💻 Sobre o projeto
 
 Este projeto é parte de um desafio que avalia a habilidade de implementar funcionalidades e exibir informações dinâmicas e estáticas em componentes reutilizáveis utilizando ReactJs com TypeScript.
 
