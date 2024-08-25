@@ -41,6 +41,7 @@ Este projeto é parte de um desafio que avalia a habilidade de implementar funci
 - [Axios](https://github.com/axios/axios)
 - [Chakra UI](https://chakra-ui.com/)
 - [Json Server](https://github.com/typicode/json-server)
+- [Vitest](https://vitest.dev/)
 
 
 <h3>
