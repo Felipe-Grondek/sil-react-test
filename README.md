@@ -1,6 +1,6 @@
 # Desafio Desenvolvedor Front End - React
 
-<a href="https://sil-react-test.vercel.app/">🔗 DEPLOY DO PROJETO</a>
+<a href="https://sil-react-test.vercel.app/">🖥️ DEPLOY DO PROJETO</a>
 
 ## Como rodar o projeto?
 
